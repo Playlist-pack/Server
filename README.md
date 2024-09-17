@@ -57,7 +57,7 @@ https://www.instagram.com/plypockets/
 
 
 
-- Back-end : [조영서](https://github.com/dudrhy12), [최동훈](https://github.com/ulsandonghun), [안나](https://github.com/An0401na)
+- Back-end : [조영서](https://github.com/dudrhy12), [최동훈](https://github.com/evergreenn), [안나](https://github.com/An0401na)
   
 <br>
 
